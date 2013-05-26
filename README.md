@@ -8,6 +8,6 @@ Amazon Data Mining
 
 ## Contribution
 * Increased accuracy from 40.1% to 81.3%, and decreased RMSE from 1.460 to 0.853.
-* Implemented various machine learning methods, including feature selection of PCA, stemming, metadata, part of speech, and Information Gain.
-and mathematical models of Naive Bayes, Ada-boost, Logistic Regression, SVM, Intersection Kernels, and EMs. 
+* Implemented various machine learning methods, including feature selection like PCA, stemming, metadata, part of speech, and information gain, as well as 
+mathematical models like Naive Bayes, Ada-boost, Logistic Regression, SVM, Intersection Kernels, and EMs. 
 * Got TOP one performance for a long period in class and awarded by Prof. Ben.Taskar.
